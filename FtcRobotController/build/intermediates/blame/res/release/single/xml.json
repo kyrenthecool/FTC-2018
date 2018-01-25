@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/xml/rev_scoot.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/xml/rev_scoot.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/xml/k9legacybot.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/xml/squarebot.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/xml/pushbotsens.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/xml/app_settings.xml",
+        "source": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/src/main/res/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/xml/maxmodules.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/xml/maxmodules.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/xml/device_filter.xml",
+        "source": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/xml/advanced_rc_settings.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/xml/advanced_rc_settings.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/xml/k9usbbot.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/xml/pushbot.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/xml/pushbot.xml"
+    }
+]

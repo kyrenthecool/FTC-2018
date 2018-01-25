@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/.android/build-cache/6d929b8dd923664f4e550d9806b4def92117d3e8/output/jars/libs/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/gson-2.8.0_d86abc61a2f7f660822d1b10d028d1721dbdefa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/.android/build-cache/6d929b8dd923664f4e550d9806b4def92117d3e8/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_7edee3c3ab221dc84fc16109bbef44c5e6cd7b90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/.android/build-cache/62adb4182460d2719a269db0c66c0edaa9303aa6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e444b561b0feba789cac93c5db61f08ef8c25ee6">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/classes_128e8826632834a2003826f5c8276511bef0031a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/.android/build-cache/fee36d99638109cd2034549d91ffbe10c3c5e509/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/classes_323cc4b869ea7068128846503bd02083ba20b0b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/.android/build-cache/df366d5aa3275c1aea8f9559a574bf8e3287c842/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/classes_8772a4e47542f999ee3a8f0749309259d731e13c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/.android/build-cache/6d929b8dd923664f4e550d9806b4def92117d3e8/output/jars/libs/javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/javac_4f05ad2465d89f44d6b19030196ae13e7d6ce292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b059d9e295380136b8365ca7cc481f7261a247d0">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/classes_82a8d90ea72979be7b63b2f060f57c0947903f6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/.android/build-cache/6d929b8dd923664f4e550d9806b4def92117d3e8/output/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_fee0054c1db213c5f0779e629a81918e91ffb3e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/.android/build-cache/c6a0e89ebc5163ac19a6971429bf1b11a56c57dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ce86a6340781abf3d876eba190efa34ae92d2f9">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/classes_0157887951eba17234e8cad11bbf4d25c6124f95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/.android/build-cache/6d929b8dd923664f4e550d9806b4def92117d3e8/output/jars/libs/gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/gson-extras-0.2.1_653558fe4fdc816e491482a4eb2f6bb170a1f080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7558c70f3b0b473ca494059b37f16ca880ac43fd">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/classes_77957adafb87e2b18f32309aee6e4227857ef870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/.android/build-cache/2f8bd2c610854db4ccc201fa0b0bad9c108e6281/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6c6d1584a392ebfee01efd98e6caaf6a9e5ac51d">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/classes_0fae4c969995a41f8b88fce6527de88f256a6af1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fibonacci/.android/build-cache/6d929b8dd923664f4e550d9806b4def92117d3e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5d8f95b7b91c8a132c514f5dbe75340305e6883b">
+        <dex dex="/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/pre-dexed/debug/classes_7fa9dc00100f168cdc3c2a737b84f5005ff86915.jar" />
+    </item>
+
+</items>

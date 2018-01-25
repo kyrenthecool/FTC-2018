@@ -1,0 +1,450 @@
+[
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_output_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/analog_output_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/matrices.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/matrices.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_blocks.xml",
+        "source": "/Users/fibonacci/.android/build-cache/c6a0e89ebc5163ac19a6971429bf1b11a56c57dc/output/res/layout/activity_blocks.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/file_info.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/file_info.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/info_button.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/info_button.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_wifi_remembered_groups.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_ftc_wifi_remembered_groups.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/digital_devices.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/digital_devices.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/banner_parent.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/banner_parent.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_swap_usb_devices.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_swap_usb_devices.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_config_wifi_direct.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/banner_parent.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/banner_parent.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_wifi_channel_selector.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_ftc_wifi_channel_selector.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/motor_list.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/motor_list.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/pwm_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/pwm_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/digital_device_lynx.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/digital_device_lynx.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/servo_controller_banner.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/servo_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/button_list.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/button_list.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_wifi_channel_selector.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_ftc_wifi_channel_selector.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/servo.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/servo.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_inputs.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/analog_inputs.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_output_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/analog_output_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/motor_controller_banner.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/motor_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_program_and_manage.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_program_and_manage.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/feedback.xml",
+        "source": "/Users/fibonacci/.android/build-cache/fc7531b2e14a13e2ed130dd2277fbb06f7abdbfc/output/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_inputs.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/analog_inputs.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/info_button.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/info_button.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/red_line.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/red_line.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/device_interface_module.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/device_interface_module.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_input_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/analog_input_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/digital_device_lynx.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/digital_device_lynx.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/digital_devices.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/digital_devices.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_programming_mode.xml",
+        "source": "/Users/fibonacci/.android/build-cache/c6a0e89ebc5163ac19a6971429bf1b11a56c57dc/output/res/layout/activity_programming_mode.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/file_info.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/file_info.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_input_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/analog_input_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/feedback.xml",
+        "source": "/Users/fibonacci/.android/build-cache/6d929b8dd923664f4e550d9806b4def92117d3e8/output/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/lynx_usb_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/lynx_usb_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_programming_mode.xml",
+        "source": "/Users/fibonacci/.android/build-cache/a427fc52a7396e0fd184c54961da9acd7b0ed2e8/output/res/layout/activity_programming_mode.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_swap_usb_devices.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_swap_usb_devices.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_configure_from_template.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_configure_from_template.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/template_info.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/template_info.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_lynx_address_update.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_ftc_lynx_address_update.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/i2cs.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/i2cs.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_load.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_load.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/template_info.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/template_info.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/servo.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/servo.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_inspection.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2991073fb5b6a7950399d9333d3dee90dc12e3db/output/res/layout/activity_inspection.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_load.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_load.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/gray_line.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/gray_line.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/port_attached_row.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/port_attached_row.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/port_attached_row.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/port_attached_row.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_lynx_address_update.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_ftc_lynx_address_update.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_inspection.xml",
+        "source": "/Users/fibonacci/.android/build-cache/62adb4182460d2719a269db0c66c0edaa9303aa6/output/res/layout/activity_inspection.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/servo_list.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/servo_list.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/lynx_module_configure_address_spin_item.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/lynx_module_configure_address_spin_item.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/color_list_preference_line_item.xml",
+        "source": "/Users/fibonacci/.android/build-cache/6d929b8dd923664f4e550d9806b4def92117d3e8/output/res/layout/color_list_preference_line_item.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/lynx_usb_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/lynx_usb_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/digital_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/digital_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_view_logs.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_view_logs.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/pwm_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/pwm_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/motor_list.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/motor_list.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/motor.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/motor.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/lynx_module_configure_address.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/lynx_module_configure_address.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/matrix_devices.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/matrix_devices.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/red_line.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/red_line.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_configure_from_template.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_configure_from_template.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_outputs.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/analog_outputs.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_controller.xml",
+        "source": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/src/main/res/layout/activity_ftc_controller.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_lynx_fw_update.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_ftc_lynx_fw_update.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_configuration.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_ftc_configuration.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/header.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/matrix_devices.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/matrix_devices.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/motor.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/motor.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/button_list.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/button_list.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/lynx_module.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/lynx_module.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_program_and_manage.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_program_and_manage.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_generic_settings.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_generic_settings.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_generic_settings.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_generic_settings.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/matrices.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/matrices.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/pwms.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/pwms.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_wifi_remembered_groups.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/activity_ftc_wifi_remembered_groups.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/digital_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/digital_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_lynx_fw_update.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_ftc_lynx_fw_update.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/analog_outputs.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/analog_outputs.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_configuration.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_ftc_configuration.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/simple_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/simple_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/pwms.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/pwms.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/legacy.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/legacy.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/gray_line.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/gray_line.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/item_list_parent.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/item_list_parent.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/item_list_parent.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/item_list_parent.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_config_wifi_direct.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_blocks.xml",
+        "source": "/Users/fibonacci/.android/build-cache/a427fc52a7396e0fd184c54961da9acd7b0ed2e8/output/res/layout/activity_blocks.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_ftc_controller.xml",
+        "source": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/src/main/res/layout/activity_ftc_controller.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/legacy.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/legacy.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/i2c_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/i2c_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/loading_indicator_overlay.xml",
+        "source": "/Users/fibonacci/.android/build-cache/fc7531b2e14a13e2ed130dd2277fbb06f7abdbfc/output/res/layout/loading_indicator_overlay.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/motor_controller_banner.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/motor_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/loading_indicator_overlay.xml",
+        "source": "/Users/fibonacci/.android/build-cache/6d929b8dd923664f4e550d9806b4def92117d3e8/output/res/layout/loading_indicator_overlay.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/servo_list.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/servo_list.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/simple_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/simple_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/servo_controller_banner.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/servo_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/i2c_device.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/i2c_device.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/color_list_preference_line_item.xml",
+        "source": "/Users/fibonacci/.android/build-cache/fc7531b2e14a13e2ed130dd2277fbb06f7abdbfc/output/res/layout/color_list_preference_line_item.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/lynx_module_configure_address_spin_item.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/lynx_module_configure_address_spin_item.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/device_interface_module.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/device_interface_module.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/activity_view_logs.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/activity_view_logs.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/header.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/lynx_module.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/layout/lynx_module.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/lynx_module_configure_address.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/lynx_module_configure_address.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/res/merged/debug/layout/i2cs.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/layout/i2cs.xml"
+    }
+]

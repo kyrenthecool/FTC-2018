@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/menu/main_menu.xml",
+        "source": "/Users/fibonacci/.android/build-cache/62adb4182460d2719a269db0c66c0edaa9303aa6/output/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/menu/ftc_robot_controller.xml",
+        "source": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/res/merged/release/menu/menu_server.xml",
+        "source": "/Users/fibonacci/.android/build-cache/c6a0e89ebc5163ac19a6971429bf1b11a56c57dc/output/res/menu/menu_server.xml"
+    }
+]

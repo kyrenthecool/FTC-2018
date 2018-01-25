@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/fibonacci/Desktop/FTC-2018/FtcRobotController/build/intermediates/bundles/default/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape.xml",
+        "source": "/Users/fibonacci/.android/build-cache/2877c10e5bd8f3592b37153ab19a15dcf7191ba4/output/res/drawable-hdpi-v4/button_shape.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape.xml",
+        "source": "/Users/fibonacci/.android/build-cache/19527be785c5bd99c01efb261f639cef025a4257/output/res/drawable-hdpi-v4/button_shape.xml"
+    },
+    {
+        "merged": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/fibonacci/Documents/FTC-2018/FTC-2018/FtcRobotController/build/intermediates/bundles/default/res/drawable-hdpi-v4/ic_launcher.png"
+    }
+]

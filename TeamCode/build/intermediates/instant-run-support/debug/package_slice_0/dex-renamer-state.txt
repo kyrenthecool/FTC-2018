@@ -1,0 +1,4 @@
+#Sat Dec 09 12:09:29 MST 2017
+base.0=/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/fibonacci/Desktop/FTC-2018/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex
